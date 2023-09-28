@@ -6,10 +6,6 @@ y <- rnorm(500)
 
 # Important feature
 
-HEAD
 # Normal development 
 
 # testing new branch 
-
-# HAHAHAHAHHAA
-
